@@ -11,3 +11,7 @@ In this task I have used google colab. Google Colab is a free cloud service and 
 # What is cascade classifier?
 Cascading classifiers are trained with several hundred "positive" sample views of a particular object and arbitrary "negative" images of the same size. After the classifier is trained it can be applied to a region of an image and detect the object in question.
 
+# Output 
+![screencapture-colab-research-google-drive-1ONVgfe6SAXUZs9DvQ94tGNgcUgvKHMlL-2020-06-27-20_35_41](https://user-images.githubusercontent.com/50755701/85928646-3ff88900-b8b7-11ea-9e8e-1cf5abfb5096.png)
+
+
