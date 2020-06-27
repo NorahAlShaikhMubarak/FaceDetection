@@ -14,4 +14,5 @@ Cascading classifiers are trained with several hundred "positive" sample views o
 # Output 
 ![screencapture-colab-research-google-drive-1ONVgfe6SAXUZs9DvQ94tGNgcUgvKHMlL-2020-06-27-20_35_41](https://user-images.githubusercontent.com/50755701/85928646-3ff88900-b8b7-11ea-9e8e-1cf5abfb5096.png)
 
-
+# References 
+https://medium.com/@alkeshab/face-detection-using-opencv-in-google-colaboratory-a7529a2bb921
